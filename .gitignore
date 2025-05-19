@@ -1,0 +1,21 @@
+# created by virtualenv automatically
+.venv/bin
+# Python sanal ortam klasörü
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# IDE dosyaları
+.idea/
+.vscode/
+
+# MacOS sistem dosyaları
+.DS_Store
+
+# Gereksiz log/temp dosyalar
+*.log
+*.tmp
+*.bak
